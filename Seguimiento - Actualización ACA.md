@@ -1,6 +1,6 @@
 ---
 created: 2026-03-20T15:55:52-04:00
-modified: 2026-03-20T16:52:29-04:00
+modified: 2026-03-20T17:28:41-04:00
 ---
 
 # Seguimiento - Actualización ACA
@@ -12,4 +12,6 @@ Sala de Autogobierno
 4-Mapa de los Sueños
 5-Sala física de autogobierno 
 6-Carga al sistema gobierno comunal 
-7-
+7-Funcionamiento de los equipos
+
+Consulta Popular
