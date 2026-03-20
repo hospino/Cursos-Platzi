@@ -1,6 +1,6 @@
 ---
 created: 2026-03-20T15:55:52-04:00
-modified: 2026-03-20T17:28:41-04:00
+modified: 2026-03-20T17:30:37-04:00
 ---
 
 # Seguimiento - Actualización ACA
@@ -14,4 +14,6 @@ Sala de Autogobierno
 6-Carga al sistema gobierno comunal 
 7-Funcionamiento de los equipos
 
-Consulta Popular
+Consulta Popular Nacional
+
+21-03-2024 Adquisición de cilindro de gas. 288 familias, ejecutó consejo comunal santa Elena centro
