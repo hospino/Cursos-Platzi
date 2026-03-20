@@ -1,6 +1,6 @@
 ---
 created: 2026-03-20T15:55:52-04:00
-modified: 2026-03-20T17:30:37-04:00
+modified: 2026-03-20T17:33:30-04:00
 ---
 
 # Seguimiento - Actualización ACA
@@ -16,4 +16,4 @@ Sala de Autogobierno
 
 Consulta Popular Nacional
 
-21-03-2024 Adquisición de cilindro de gas. 288 familias, ejecutó consejo comunal santa Elena centro
+21-03-2024 Adquisición de cilindro de gas. 288 familias, ejecutó consejo comunal santa Elena centro, 8%
