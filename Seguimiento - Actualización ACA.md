@@ -1,6 +1,6 @@
 ---
 created: 2026-03-20T15:55:52-04:00
-modified: 2026-03-20T17:52:49-04:00
+modified: 2026-03-20T18:22:01-04:00
 ---
 
 # Seguimiento - Actualización ACA
@@ -21,6 +21,13 @@ Consulta Popular Nacional
 25-08-2924 Rehabilitación de viviendas, ejecutó la comuna, 20%
 
 02-02-2025  1 Techado de la cancha doctor Mariano Uscategui
-                       2 Canalización 
+                       2 Canalización caño santa Elena 100%
 
 27-04-2025 Techado de la cancha doctor Mariano Uscategui
+
+27-07-2025 créditos de emprendimiento para los jóvenes de la comuna libertadores proyecto retornable de la juventud 100%
+2 Rehabilitación y dotación de la EPC cambio de techo 100%
+
+23-11-2025 Asfaltado de las calles 5%
+
+08-03-2026 Rehabilitación de la red eléctrica sector gran mariscal. En evaluación
