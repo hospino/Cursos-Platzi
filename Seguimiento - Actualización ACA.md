@@ -1,6 +1,6 @@
 ---
 created: 2026-03-20T15:55:52-04:00
-modified: 2026-03-20T17:47:59-04:00
+modified: 2026-03-20T17:52:30-04:00
 ---
 
 # Seguimiento - Actualización ACA
@@ -21,3 +21,6 @@ Consulta Popular Nacional
 25-08-2924 Rehabilitación de viviendas, ejecutó la comuna, 20%
 
 02-02-2025  1 Techado de la cancha doctor Mariano Uscategui
+                       2 Canalización 
+
+27-04-2025
